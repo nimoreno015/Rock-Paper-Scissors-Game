@@ -1,0 +1,47 @@
+body{
+  background-color: #09459a;
+}
+#img1{
+  float: left;
+  margin-left: 400px;
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+}
+
+#img2 {
+  float: right;
+  margin-left: 20px;
+  margin-top: 50px;
+  margin-right: 400px;
+  text-align: center;
+  color: white;
+}
+
+#p1{
+  font-size: 35px;
+}
+
+#p2 {
+  font-size: 35px;
+}
+
+#result{
+  clear: both;
+  position: relative;
+  margin-left: 550px;
+  color: white;
+}
+
+table {
+  margin-top: 40px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 40%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
